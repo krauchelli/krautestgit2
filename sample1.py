@@ -4,7 +4,7 @@ print("Welcome to the sample test of my second(?) repo git test")
 name = str(input("Please enter your name: "))
 num = int(input("Please enter desired looping sequences total: "))
 i = 0
-storage = []
+storage = list()
 
 while num > i:
     pos = int(input("enter pos: "))
