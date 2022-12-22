@@ -13,5 +13,6 @@ while num > i:
     i += 1
 
 print()
+print()
 print("Thank you for visiting this test!, the result below showed up that this test is working!")
 print(storage)
